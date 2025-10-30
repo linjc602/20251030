@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,answer
+p5.js 是什麼？,一個基於 JavaScript 的創意程式函式庫,一個專門的網頁設計框架,一個資料庫管理系統,A
+哪一個函數只會執行一次，用於初始化設定？,draw(),setup(),preload(),B
+loadTable() 函數應該放在哪一個函數中以確保資料在 setup() 前準備好？,draw(),mousePressed(),preload(),C
+在 p5.js 中，要隱藏系統游標以繪製自定義游標，應該使用哪個函數？,hideCursor(),noCursor(),cursor(false),B
+哪個變數在 draw() 函數中會隨著時間不斷增加？,width,height,frameCount,C
